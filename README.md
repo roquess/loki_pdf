@@ -1,5 +1,7 @@
 # Loki PDF
 
+![Logo](https://github.com/roquess/loki_pdf/raw/main/logo.png)
+
 A lightweight and performant PDF compression library for WebAssembly, built with Rust.
 
 ## Compression Levels
