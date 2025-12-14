@@ -1,0 +1,28 @@
+{
+  "name": "loki_pdf",
+  "type": "module",
+  "collaborators": [
+    "Steve Roques <steve.roques@gmail.com>"
+  ],
+  "description": "A PDF compression library for WebAssembly",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roquess/loki_pdf"
+  },
+  "files": [
+    "loki_pdf_bg.wasm",
+    "loki_pdf.js",
+    "loki_pdf.d.ts"
+  ],
+  "main": "loki_pdf.js",
+  "types": "loki_pdf.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ],
+  "keywords": [
+    "pdf",
+    "wasm"
+  ]
+}
